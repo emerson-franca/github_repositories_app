@@ -1,5 +1,6 @@
-# github_repositories_app
-App to show users and they favorite repositories
+# Github Repositories App
+
+App to show Github users and they favorite repositories 
 
 Tecnologies in this app
 
